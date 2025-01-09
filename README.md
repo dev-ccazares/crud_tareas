@@ -14,6 +14,8 @@ Esta es una aplicación de gestión de tareas desarrollada en **Python** con int
 - Persistencia de datos en base de datos SQLite.
 - Actualización automática de la interfaz al completar, eliminar o importar tareas.
 
+![Captura del proyecto] (https://github.com/dev-ccazares/crud_tareas/blob/main/captura.png)
+
 ## Requisitos
 
 - Python 3.8 o superior
